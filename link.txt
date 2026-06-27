@@ -1,1 +1,4 @@
-
+# Serveo Server Link
+SERVEO_URL=https://console.serveo.net
+UPDATED_AT=2026-06-27T12:27:55.160990
+STATUS=active
