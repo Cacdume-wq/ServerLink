@@ -1,4 +1,1 @@
-# Serveo Server Link
-SERVEO_URL=https://815602d270a936b9-14-227-116-216.serveousercontent.com
-UPDATED_AT=2026-06-27T12:54:38.809764
-STATUS=active
+https://223ff3af5703a2a0-14-227-116-216.serveousercontent.com
